@@ -2,4 +2,5 @@
 
 added some text to push new commit and changes for *github.*
 
-this text was added on github for pull it on git.
+Added text in lane 5 for conflict.
+
